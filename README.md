@@ -70,8 +70,8 @@ Below are the screenshots of the Swagger:
 
 ### Endpoint Overview
 
-![Swagger Endpoint Screenshot](Swagger-endpoint.png)
+![Swagger Endpoint Screenshot](images/Swagger-endpoint.png)
 
 ### Requesting (n = 100000)
 
-![Swagger Request Screenshot](Swagger-n100000.png)
+![Swagger Request Screenshot](images/Swagger-n100000.png)
